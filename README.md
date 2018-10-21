@@ -41,41 +41,23 @@ wscui.cpl 보안센터
 
 ```
 certmgr.msc : 인증서 관리
-
 ciadv.msc : 인덱싱 서비스
-
 compmgmt.msc : 컴퓨터 관리
-
 devmgmt.msc : 장치관리자
-
 dfrg.msc : 디스크 조각 모음
-
 diskmgmt.msc : 디스크 관리
-
 eventvwr.msc : 이벤트 뷰어 (이벤트 로그)
-
 fsmgmt.msc : 공유 폴더 (공유 폴더 관리)
-
 gpedit.msc : 그룹 정책
-
 lusrmgr.msc : 로컬 사용자 및 그룹
-
 ntmsmgr.msc : Removable Storage
-
 ntmsoprq.msc : 이동식 저장소 운영자 요청
-
 perfmon.msc : 성능
-
 rsop.msc : 정책의 결과 집합
-
 secpol.msc : 로컬 보안 설정
-
 services.msc : 서비스
-
 wmimgmt.msc : WMI 서비스 구성
-
 comexp.msc : comexp 구성 요소 서비스
-
 control userpasswords2 : 사용자 계정  
 ```
 
@@ -83,23 +65,20 @@ control userpasswords2 : 사용자 계정
 
 
 ```
-main.cpl - 마우스속성
-
-ncpa.cpl - 네트워크 연결
-
-appwiz.cpl : 프로그램 추가/제거
-
-desk.cpl : 디스플레이 등록 정보
-
-ncpa.cpl : 네트워크 연결
-
-nusrmgr.cpl : 사용자 계정
-
-wuaucpl.cpl : 자동업데이트
+appwiz.cpl	프로그램 제거 또는 변경 ★★★
+desk.cpl	디스플레이 모양 변경
+firewall.cpl	Windows 방화벽을 사용하여 컴퓨터 보호
+hdwwiz.cpl	장치 관리자
+inetcpl.cpl	인터넷 속성
+intl.cpl	국가 및 언어
+main.cpl	마우스 속성
+mmsys.cpl	소리
+ncpa.cpl	네트워크 연결 ★
+powercfg.cpl	전원 관리 옵션 선택
+sysdm.cpl	시스템 속성
+timedate.cpl	날짜 및 시간
 
 control admintools : 관리도구
-
 control folders : 폴더옵션
-
 control userpasswords : 사용자 계정
 ```
