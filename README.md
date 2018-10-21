@@ -1,15 +1,5 @@
 # Manual-Window-Command
 
-### Window Logo + R
-
-1. 
-```
-devmgmt.msc : 장치관리자
-```
-2. 프로그램 설치 및 제거
-
-<hr/>
-
 [기타 명령어]
 
 ```
