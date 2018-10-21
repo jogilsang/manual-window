@@ -79,7 +79,7 @@ control userpasswords2 : 사용자 계정
 [CPL 명령어]
 
 
-
+```
 main.cpl - 마우스속성
 
 ncpa.cpl - 네트워크 연결
@@ -99,3 +99,4 @@ control admintools : 관리도구
 control folders : 폴더옵션
 
 control userpasswords : 사용자 계정
+```
