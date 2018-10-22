@@ -24,7 +24,7 @@ wab 주소록
 winver (윈도우 버전확인)
 wmplayer (윈도우 미디어 플레이어)
 wordpad 워드패드
-wscui.cpl 보안센터
+wscui.cpl 보안센터.
 ```
 
 [MSC 명령어]
