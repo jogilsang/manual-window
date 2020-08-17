@@ -10,6 +10,15 @@
               ~_^ For downloading the file! ^_~           (_)  
 ```      
 
+### Color Theme
+```
+regedit 
+HKEY_CURRENT_USER
+Control Panel
+Colors
+```
+
+
 ### [기타 명령어]
 
 ```
