@@ -1,7 +1,12 @@
 
 ### AD (Active Directory)
 ```
+정의 :
 윈도우 계정, 컴퓨터 정보, 정책 등의 정보가 담긴 암호화된 파일 타입의 데이터베이스.
+```
+``` 
+기본경로 : 
+C:\windows\NTDS
 ```
 - Workgroup, Domain
 - Active Directory 설치
