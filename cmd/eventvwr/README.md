@@ -27,3 +27,10 @@ Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational
 21 : 세션 시작
 25 : 세션 종료
 ```
+
+### 로그인, 로그아웃
+```
+Security.evtx
+4624 : 로그인
+4634 : 로그아웃
+```
