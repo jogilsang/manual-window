@@ -19,3 +19,10 @@ list disk
 select disk=0
 detail disk
 ```
+
+### 원격접속
+```
+Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational
+21 : 세션 시작
+25 : 세션 종료
+```
