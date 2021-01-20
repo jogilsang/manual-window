@@ -15,6 +15,7 @@ windows 로그 - 시스템
 
 ### 디스크
 ```
+diskpart
 list disk
 select disk=0
 detail disk
