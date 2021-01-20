@@ -1,4 +1,9 @@
 
+### 바탕화면 desktop
+```
+cd %systemdrive%\users\%username%\desktop
+```
+
 ### Color Theme
 ```
 regedit 
