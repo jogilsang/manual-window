@@ -2,6 +2,7 @@
 ```
 eventvwr.msc
 winevt
+logfiles
 ```
 
 ### 부팅, 종료
