@@ -1,4 +1,23 @@
 
+
+### cmd UTF 8
+```
+utf-8 을 cmd 에서 출력하기
+
+cmd 에서기본적으로 utf-8가 출력되면 깨진다. utf-8을 출력하기 위해서
+chcp(change code page) 를 수행하면 된다.
+
+> chcp 65001
+
+
+기본으로 돌아가려면 아래처럼 하면 된다.
+> chcp 949
+
+cmd /U
+실행할때 /U 옵션을 주고 실행하자.
+cmd /U : 파이프 또는 파일로의 내부 명령어 출력을 유니코드로 설정합니다.
+```
+
 ### 바탕화면 desktop
 ```
 cd %systemdrive%\users\%username%\desktop
